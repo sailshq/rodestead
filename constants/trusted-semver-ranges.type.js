@@ -14,6 +14,8 @@ module.exports = {
   '',
   example: {},
   defaultsTo: {
+    'roadstead': '*',
+
     'sails': '*',
 
     'sails-hook-sockets': '^1.0.1',
