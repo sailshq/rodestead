@@ -1,6 +1,6 @@
 {
   "name": "roadstead",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "A dictionary containing trusted semver ranges of core NPM packages, and manually-verified versions of 3rd party NPM packages used consistently across the Sails framework, Node Machine project, and related modules.",
   "main": "index.js",
   "scripts": {
