@@ -45,7 +45,7 @@ module.exports = {
     'grunt-contrib-watch': '1.0.0',
     'grunt-hash': '0.5.0',
     'grunt-sails-linker': '0.10.1',
-    'grunt-sync': '0.5.2',
+    'grunt-sync': '0.6.2',
     'rc': '1.0.1',
     'mocha': '3.0.2',
 
