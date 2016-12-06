@@ -31,7 +31,7 @@ module.exports = {
     'semver': '4.3.6',
     'connect-redis': '3.1.0',
 
-    'ejs': '2.5.3',
+    'ejs': '2.5.5',
     'grunt': '1.0.1',
     'grunt-cli': '1.2.0',
     'grunt-contrib-clean': '1.0.0',
