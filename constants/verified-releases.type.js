@@ -49,6 +49,16 @@ module.exports = {
     'rc': '1.0.1',
     'mocha': '3.0.2',
 
+    // Socket.io & friends
+    'socket.io': '1.5.1',
+    'socket.io-redis': '2.0.0',
+    'socket.io-client': '1.7.1',
+    
+    // Redis & friends
+    'redis': '2.6.3',
+    'ioredis': '2.4.0',
+    
+     // Older Waterline deps
     'waterline-errors': '0.10.1',
     'waterline-sequel': '0.6.4',
 
