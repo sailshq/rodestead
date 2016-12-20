@@ -26,6 +26,7 @@ module.exports = {
     'request': '2.74.0',
     'fs-extra': '0.30.0',
     'knex': '0.11.9',
+    'bluebird': '3.2.1',
     'debug': '2.2.0',
     'bcryptjs': '2.3.0',
     'semver': '4.3.6',
@@ -53,11 +54,11 @@ module.exports = {
     'socket.io': '1.5.1',
     'socket.io-redis': '2.0.0',
     'socket.io-client': '1.7.1',
-    
+
     // Redis & friends
     'redis': '2.6.3',
     'ioredis': '2.4.0',
-    
+
      // Older Waterline deps
     'waterline-errors': '0.10.1',
     'waterline-sequel': '0.6.4',
