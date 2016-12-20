@@ -78,6 +78,7 @@ module.exports = {
     'anchor': '*',
     'machine': '*',
     'rttc': '*',
+    'parley': '^1.0.0-1',
     'switchback': '^2.0.1',
     'reportback': '^2.0.1',
     'captains-log': '^1.0.1',
