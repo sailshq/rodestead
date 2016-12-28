@@ -25,7 +25,7 @@ module.exports = {
 
     'request': '2.74.0',
     'fs-extra': '0.30.0',
-    'knex': '0.11.9',
+    'knex': '0.12.6',
     'bluebird': '3.2.1',
     'debug': '2.2.0',
     'bcryptjs': '2.3.0',
