@@ -30,6 +30,12 @@ module.exports = {
     'sails-memory': '^0.10.7',
     'sails-mysql': '^0.11.5',
     'sails-postgresql': '^0.11.4',
+    'sails-mongo': '^1.0.0',
+
+    'machinepack-mysql': '^2.0.0',
+    'machinepack-postgresql': '^1.0.0',
+    'machinepack-mongodb': '^1.0.0',
+    'machinepack-redis': '^1.1.1',
 
     'waterline-criteria': '^1.0.1',
     'waterline-cursor': '^0.0.7',
