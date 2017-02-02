@@ -23,6 +23,10 @@ module.exports = {
     'chalk': '1.1.3',
     'commander': '2.8.1',
 
+    'pg': '6.1.0',
+    'mysql': '2.10.2',
+    'mongo': '2.2.22',
+
     'request': '2.74.0',
     'fs-extra': '0.30.0',
     'knex': '0.12.6',
