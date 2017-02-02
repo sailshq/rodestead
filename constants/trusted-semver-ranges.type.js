@@ -37,6 +37,10 @@ module.exports = {
     'machinepack-mongodb': '^1.0.0',
     'machinepack-redis': '^1.1.1',
 
+    // Newer Waterline-related deps
+    'waterline-utils': '^1.3.2',
+    'waterline-schema': '*',
+
     'waterline-criteria': '^1.0.1',
     'waterline-cursor': '^0.0.7',
     'waterline-adapter-tests': '^0.12.1',

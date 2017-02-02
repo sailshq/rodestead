@@ -59,7 +59,7 @@ module.exports = {
     'redis': '2.6.3',
     'ioredis': '2.4.0',
 
-     // Older Waterline deps
+    // Older Waterline deps
     'waterline-errors': '0.10.1',
     'waterline-sequel': '0.6.4',
 
