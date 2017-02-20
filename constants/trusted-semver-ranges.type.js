@@ -39,6 +39,7 @@ module.exports = {
 
     // Newer Waterline-related deps
     'waterline-utils': '^1.3.2',
+    'waterline-sql-builder': '^1.0.0',
     'waterline-schema': '*',
 
     'waterline-criteria': '^1.0.1',
