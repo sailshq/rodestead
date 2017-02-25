@@ -52,7 +52,10 @@ module.exports = {
     'grunt-sails-linker': '0.10.1',
     'grunt-sync': '0.6.2',
     'rc': '1.0.1',
+
+    // Dev / testing tools
     'mocha': '3.0.2',
+    'eslint': '3.5.0',
 
     // Socket.io & friends
     'socket.io': '1.5.1',
