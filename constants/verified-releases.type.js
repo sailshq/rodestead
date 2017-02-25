@@ -71,7 +71,6 @@ module.exports = {
     'waterline-sequel': '0.6.4',
 
     // Uncommon deps used in built-in Waterline modules:
-    'npm': '2.15.6',
     'chai': '3.5.0',
     'jpath': '0.0.20',
     'should': '9.0.0',
