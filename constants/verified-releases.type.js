@@ -55,7 +55,7 @@ module.exports = {
 
     // Dev / testing tools
     'mocha': '3.0.2',
-    'eslint': '3.5.0',
+    'eslint': '3.19.0',
 
     // Socket.io & friends
     'socket.io': '1.5.1',
