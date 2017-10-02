@@ -18,7 +18,6 @@ module.exports = {
   example: {},
   defaultsTo: {
     'async': '2.0.1',
-    'lodash': '3.10.1',
 
     'chalk': '1.1.3',
     'commander': '2.8.1',
@@ -27,7 +26,7 @@ module.exports = {
     'mysql': '2.10.2',
     'mongo': '2.2.22',
 
-    'request': '2.74.0',
+    'request': '2.81.0',
     'fs-extra': '0.30.0',
     'knex': '0.12.7',
     'bluebird': '3.2.1',
@@ -76,6 +75,6 @@ module.exports = {
     'should': '9.0.0',
 
     // This is not a complete list.
-    // (TODO: add to this list over time)
+    // (FUTURE: add to this list over time)
   }
 };

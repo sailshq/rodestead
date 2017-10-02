@@ -110,6 +110,6 @@ module.exports = {
     '@sailshq/lodash': '*',
 
     // This is not a complete list
-    // (TODO: add to this list and expand ranges as it makes sense, over time)
+    // (FUTURE: add to this list and expand ranges as it makes sense, over time)
   }
 };
