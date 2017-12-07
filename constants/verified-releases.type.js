@@ -32,7 +32,7 @@ module.exports = {
     'bluebird': '3.2.1',
     'debug': '2.2.0',
     'bcryptjs': '2.3.0',
-    'semver': '4.3.6',
+    'semver': '5.4.1',
     'connect-redis': '3.1.0',
 
     'ejs': '2.5.5',
