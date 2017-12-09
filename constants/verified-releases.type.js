@@ -20,6 +20,7 @@ module.exports = {
     'async': '2.0.1',
 
     'chalk': '1.1.3',
+    'prompt': '0.2.14',
     'commander': '2.8.1',
 
     'pg': '6.1.0',
