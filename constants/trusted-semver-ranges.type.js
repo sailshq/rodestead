@@ -86,15 +86,17 @@ module.exports = {
     'machinepack-gravatar': '*',
     'machinepack-sails': '*',
 
-    'anchor': '*',
-    'machine': '*',
-    'rttc': '*',
+    '@sailshq/lodash': '*',
+    'flaverr': '^1.0.0',
     'parley': '^2.1.0',
-    'switchback': '^2.0.1',
-    'reportback': '^2.0.1',
+    'machine': '*',
     'captains-log': '^1.0.1',
 
-    'flaverr': '^1.0.0',
+    'switchback': '^2.0.1',
+    'reportback': '^2.0.1',
+    'anchor': '*',
+
+    'rttc': '*',
     'aim-error-at': '*',
     'machine-as-script': '*',
     'machine-as-action': '*',
@@ -107,7 +109,6 @@ module.exports = {
     'machinepack-stripe': '*',
     'machinepack-markdown': '*',
 
-    '@sailshq/lodash': '*',
 
     // This is not a complete list
     // (FUTURE: add to this list and expand ranges as it makes sense, over time)
