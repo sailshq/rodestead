@@ -87,6 +87,8 @@ module.exports = {
     'machinepack-sails': '*',
 
     '@sailshq/lodash': '*',
+    '@sailshq/htmlhint': '*',
+    '@sailshq/eslint': '*',
     'flaverr': '^1.0.0',
     'parley': '^2.1.0',
     'machine': '*',
