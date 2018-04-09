@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npm run lint && npm run custom-tests",
     "custom-tests": "node ./node_modules/mocha/bin/mocha test --recursive",
-    "lint": "node ./node_modules/eslint/bin/eslint . --max-warnings=0"
+    "lint": "eslint/bin/eslint . --max-warnings=0"
   },
   "author": "Mike McNeil",
   "license": "MIT",
@@ -14,7 +14,7 @@
   "dependencies": {},
   "devDependencies": {
     "@sailshq/lodash": "^3.10.2",
-    "eslint": "4.11.0",
+    "@sailshq/eslint": "^4.19.3",
     "mocha": "3.0.2"
   }
 }
