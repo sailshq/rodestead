@@ -31,7 +31,7 @@ module.exports = {
     'fs-extra': '0.30.0',
     'knex': '0.12.7',
     'bluebird': '3.2.1',
-    'debug': '2.2.0',
+    'debug': '2.6.9',
     'bcryptjs': '2.3.0',
     'semver': '5.4.1',
     'connect-redis': '3.1.0',
