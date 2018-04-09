@@ -14,7 +14,7 @@ module.exports = {
   '',
   example: {},
   defaultsTo: {
-    'roadstead': '*',
+    'rodestead': '*',
 
     'sails': '*',
 
