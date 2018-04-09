@@ -1,6 +1,6 @@
 {
   "name": "rodestead",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A dictionary containing trusted semver ranges of core NPM packages, and manually-verified versions of 3rd party NPM packages used consistently across the Sails framework, Node Machine project, and related modules.",
   "main": "index.js",
   "scripts": {
