@@ -54,7 +54,7 @@ module.exports = {
     'rc': '1.0.1',
 
     // Dev / testing tools
-    'mocha': '3.0.2',
+    'mocha': '6.1.3',
     'eslint': '4.19.1',
     'htmlhint': '0.9.13',
     'lesshint': '4.6.4',
