@@ -24,7 +24,7 @@ module.exports = {
     'commander': '2.8.1',
 
     'pg': '6.1.0',
-    'mysql': '2.10.2',
+    'mysql': '2.16.0',
     'mongo': '2.2.22',
 
     'request': '2.81.0',
